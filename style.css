@@ -22,7 +22,7 @@ h1{
     color:   #DDCECD;
     margin-top: 15px;
     font-size: 8vmin;
-     font-family: "Permanent Marker ", cursive;
+     font-family: "Permanent Marker ";
 }
 
 .container{
@@ -53,11 +53,11 @@ h1{
   border: none;
   outline: none;
   cursor: pointer;
-    font-family: "Permanent Marker ", cursive;
+    font-family: "Permanent Marker ";
 }
 
 .reset{
-     font-family: "Permanent Marker ", cursive;
+     font-family: "Permanent Marker ";
        background-color: #2b061e;
   color: #fbbfca;
   padding: 1rem 2rem;
