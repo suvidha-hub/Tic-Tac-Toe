@@ -58,6 +58,7 @@ h1{
 }
 
 .reset{
+  -webkit-tap-highlight-color: transparent;
      font-family: "Permanent Marker ";
        background-color: #2b061e;
   color: #fbbfca;
@@ -74,6 +75,7 @@ h1{
 .msg{
     color:antiquewhite;
     font-size: 5vmin;
+    margin-top: 10px;
 }
 
 
@@ -107,6 +109,7 @@ h1{
   }
 
   .msg {
-    font-size: 6vmin;
+    font-size: 8vmin;
+    margin-top: 5px;
   }
 }
